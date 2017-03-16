@@ -1,0 +1,15 @@
+﻿QUESTION 1:
+This is a concept that encourages a class to define its dependencies outside the class.
+ It is generally called Inversion of Control.
+
+
+Question 6
+Hibernateb is an object relational mapping tool
+Using Hibernate like other datyabases you have to
+
+
+
+QUESTION 7
+It provides Enterprise Features which in this case means fostering the 
+communication from more than one client or server.
+It is used to communicate between two applications. in simple word it ease communication
